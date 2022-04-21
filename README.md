@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [ShipWrecked](https://github.com/ceweager/ShipWrecked)
 
-- 🌱 I’m currently learning **React and Redux with Ruby on Rails**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Ruby, Javascript, HTML, CSS**
+- 💬 Ask me about **Ruby, Javascript, HTML, CSS, React, Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
